@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements IHandlerMessage {
         if (obj.key.equals(TAG)) {
             tvMain.setText(obj.content);
             //第一行代码
+            //
         }
     }
 
